@@ -1,0 +1,7 @@
+C:\Users\Andrew Kutumela\source\repos\RecipeApplicat2\RecipeApplicat2\bin\Debug\RecipeApplicat2.exe.config
+C:\Users\Andrew Kutumela\source\repos\RecipeApplicat2\RecipeApplicat2\bin\Debug\RecipeApplicat2.exe
+C:\Users\Andrew Kutumela\source\repos\RecipeApplicat2\RecipeApplicat2\bin\Debug\RecipeApplicat2.pdb
+C:\Users\Andrew Kutumela\source\repos\RecipeApplicat2\RecipeApplicat2\obj\Debug\RecipeApplicat2.csproj.AssemblyReference.cache
+C:\Users\Andrew Kutumela\source\repos\RecipeApplicat2\RecipeApplicat2\obj\Debug\RecipeApplicat2.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Kutumela\source\repos\RecipeApplicat2\RecipeApplicat2\obj\Debug\RecipeApplicat2.exe
+C:\Users\Andrew Kutumela\source\repos\RecipeApplicat2\RecipeApplicat2\obj\Debug\RecipeApplicat2.pdb
